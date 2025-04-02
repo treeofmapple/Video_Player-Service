@@ -1,0 +1,72 @@
+{"properties": [
+  {
+    "name": "eureka.instance.hostname",
+    "type": "java.lang.String",
+    "description": "A description for 'eureka.instance.hostname'"
+  },
+  {
+    "name": "eureka.client.service-url.default-zone",
+    "type": "java.lang.String",
+    "description": "A description for 'eureka.client.service-url.default-zone'"
+  },
+  {
+    "name": "name.value",
+    "type": "java.lang.String",
+    "description": "A description for 'name.value'"
+  },
+  {
+    "name": "springdoc.default-produces-media-type",
+    "type": "java.lang.String",
+    "description": "A description for 'springdoc.default-produces-media-type'"
+  },
+  {
+    "name": "springdoc.default-consumes-media-type",
+    "type": "java.lang.String",
+    "description": "A description for 'springdoc.default-consumes-media-type'"
+  },
+  {
+    "name": "springdoc.api-docs.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'springdoc.api-docs.enabled'"
+  },
+  {
+    "name": "springdoc.swagger-ui.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'springdoc.swagger-ui.enabled'"
+  },
+  {
+    "name": "springdoc.swagger-ui.path",
+    "type": "java.lang.String",
+    "description": "A description for 'springdoc.swagger-ui.path'"
+  },
+  {
+    "name": "application.security.jwt.secret-key",
+    "type": "java.lang.String",
+    "description": "A description for 'application.security.jwt.secret-key'"
+  },
+  {
+    "name": "application.security.time.expiration",
+    "type": "java.lang.String",
+    "description": "A description for 'application.security.time.expiration'"
+  },
+  {
+    "name": "application.security.encoder.memory",
+    "type": "java.lang.String",
+    "description": "A description for 'application.security.encoder.memory'"
+  },
+  {
+    "name": "application.security.time.refresh",
+    "type": "java.lang.String",
+    "description": "A description for 'application.security.time.refresh'"
+  },
+  {
+    "name": "application.security.encoder.parallelism",
+    "type": "java.lang.String",
+    "description": "A description for 'application.security.encoder.parallelism'"
+  },
+  {
+    "name": "server.servlet.timeout",
+    "type": "java.lang.String",
+    "description": "A description for 'server.servlet.timeout'"
+  }
+]}
